@@ -1,0 +1,19 @@
+
+body{
+	margin-bottom: 99px;
+}
+.content{
+	width: 960px;
+	margin: 0 auto;
+	background-color: #29aae2;
+	padding: 10px;
+	box-sizing: border-box;
+}
+footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: #8cc63f;
+}
